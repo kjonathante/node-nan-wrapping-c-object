@@ -1,7 +1,7 @@
 {
   "targets": [
     {
-      "target_name": "hello",
+      "target_name": "myobject",
       "sources": [ 
         "src/myobject.cc" 
       ],
