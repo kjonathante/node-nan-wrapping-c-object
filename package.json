@@ -1,0 +1,25 @@
+{
+  "name": "node-nan-wrapping-c-object",
+  "version": "1.0.0",
+  "description": "Node.js - C++ Addons - Wrapping C++ objects - Native Abstractions for Node.js (NAN)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjonathante/node-nan-wrapping-c-object.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/kjonathante/node-nan-wrapping-c-object/issues"
+  },
+  "homepage": "https://github.com/kjonathante/node-nan-wrapping-c-object#readme",
+  "dependencies": {
+    "nan": "^2.13.2"
+  }
+}
